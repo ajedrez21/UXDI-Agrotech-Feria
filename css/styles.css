@@ -243,7 +243,17 @@ footer{
     display: flex;
     flex-wrap: wrap;
   }
-  .row.display-flex > [class*='col-'] {
+.row.display-flex > [class*='col-'] {
     display: flex;
     flex-direction: column;
-  }
+}
+.div-top-position{
+    position: relative;
+    top: -20px;
+    border-radius: 10px;
+    background: white;
+}
+.ico-grupo-position{
+    top: -21px;
+    position: relative;
+}
