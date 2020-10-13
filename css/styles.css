@@ -283,3 +283,26 @@ footer{
     color: #00BC56;
     font-size: 20px;
 }
+.p-tam-chico{
+    font-size: 11px !important;
+    text-align: left;
+}
+.btn-comprar{
+        background: #0171ED;
+        color: white !important;
+}
+.btn-tam{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.btn-tam1{
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+}
+.separacion{
+    margin-top: 10px;
+}
+.vin-col{
+        font-size: 13px;
+    color: #0171ED;
+}
